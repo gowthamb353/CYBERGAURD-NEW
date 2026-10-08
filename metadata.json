@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Guardian",
+  "description": "Cyber Guardian: Learn. Detect. Defend. An interactive cybersecurity mission app featuring Phish or Legit, Red Flag Hunt, Password Fortress, and multilingual AI Cyber Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
